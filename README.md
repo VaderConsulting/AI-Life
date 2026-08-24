@@ -1,12 +1,25 @@
 # AI Life
 
-Legacy C# Windows application.
+C# Windows Forms/desktop program from the Historical Dev archive. This is a historical working copy from Dave Robinson / VaderConsulting, published so the project can be found and understood from GitHub.
 
-**Target:** v2.0
-## Contents
+**Source last updated:** 2011-09-25  
+**Language:** C#  
+**Target:** v2.0  
+**Output:** WinExe
 
-- `AI Life.sln`
-- `AI Life/AI Life.csproj`
+## What it is
+
+C# Windows Forms/desktop program from the Historical Dev archive. This is a historical working copy from Dave Robinson / VaderConsulting, published so the project can be found and understood from GitHub.
+
+## Solution structure
+
+| Project | Language | Path |
+|---------|----------|------|
+| `AI Life` | C# | `AI Life/AI Life.csproj` |
+
+## How to open
+
+Open `AI Life.sln` in Visual Studio.
 
 ## Attribution and provenance
 
