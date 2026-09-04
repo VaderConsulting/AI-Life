@@ -21,6 +21,10 @@ C# Windows Forms/desktop program from the Historical Dev archive. This is a hist
 
 Open `AI Life.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2010, .NET Framework 2.0
+
 ## Attribution and provenance
 
 - **Assembly company:** RSR
